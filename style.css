@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(182, 196, 209);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    margin: 30px;
+}
+
+h1{
+    color: rgb(34, 52, 68);
+    text-align: center;
+    margin: 20px;
+}
+
+p{
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.5;
+    color: rgb(54, 59, 80);
+}
+
+strong{
+    color: rgb(47, 53, 105);
+}
+i{
+    color: rgb(59, 1, 112);
+}
